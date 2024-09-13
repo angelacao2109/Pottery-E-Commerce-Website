@@ -24,4 +24,6 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pottery-ecommerce-site.git
+git clone https://github.com/angelacao2109/Pottery-E-Commerce-Website.git
+
+
