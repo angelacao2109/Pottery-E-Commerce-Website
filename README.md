@@ -25,17 +25,17 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 ### Clone the repository:
 ```bash
 git clone https://github.com/angelacao2109/Pottery-E-Commerce-Website.git
-
+```
 Install dependencies for both the frontend and backend:
-bash
-Copy code
+```bash
 npm install  # or yarn install
 cd backend
 npm install  # or yarn install
+```
 Set up environment variables:
 Add environment variables for Stripe, Supabase, and the database connection in a .env file.
 Run the development server:
-bash
-Copy code
+```bash
 npm run dev
+```
 
