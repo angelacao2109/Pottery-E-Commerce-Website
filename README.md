@@ -11,7 +11,7 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 - **AI-Powered Ads**: Integrated ad performance tracking system that rates ads based on user click-through rates.
 - **Backend API**: Built with Node.js (or Python) and Express (or Flask/Django) to handle routing, product data, and payments.
 - **Database**: PostgreSQL database for managing products, users, and orders.
-- **Deployment**: Hosted on Heroku/Vercel/AWS with Supabase for managing real-time data and authentication.
+- **Deployment**: Hosted on AWS with Supabase for managing real-time data and authentication.
 
 ## Tech Stack:
 - **Frontend**: React.js / TailwindCSS / Bootstrap
