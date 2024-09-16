@@ -3,7 +3,7 @@ Project Name: Pottery-E-Commerce-Website
 This project includes third-party software under the following licenses:
 
 Django: Licensed under BSD License. Django License 
-Django REST Framework: Licensed under BSD License. [DRF License] (https://github.com/encode/django-rest-framework/blob/master/LICENSE.md)
+Django REST Framework: Licensed under BSD License. DRF License
 React: Licensed under MIT License. React License
 Material UI: Licensed under MIT License. Material UI License
 TailwindCSS: Licensed under MIT License. Tailwind License
