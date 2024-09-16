@@ -9,7 +9,7 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 - **Order History**: Users can create an account to view their past orders and track shipping, while still allowing guest checkout.
 - **Responsive Design**: Built with modern front-end technologies ensuring a smooth experience across desktop, tablet, and mobile devices.
 - **AI-Powered Ads**: Integrated ad performance tracking system that rates ads based on user click-through rates.
-- **Backend API**: Built with Node.js (or Python) and Express (or Flask/Django) to handle routing, product data, and payments.
+- **Backend API**: Built with Python and Django to handle routing, product data, and payments.
 - **Database**: PostgreSQL database for managing products, users, and orders.
 - **Deployment**: Hosted on AWS with Supabase for managing real-time data and authentication.
 
