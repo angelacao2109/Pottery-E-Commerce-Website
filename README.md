@@ -36,7 +36,18 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 
 ### Why was this stack chosen?
 
+React provides a dynamic, component-based frontend.
+Django offers a secure, scalable backend and built in auth.
+Supabase simplifies database and authentication.
+Stripe for secure payment handling.
+
 ### Other stacks that were considered:
+
+Vue.js: Vue was considered for its simplicity and ease of use, especially for smaller applications. While Vue offers great reactivity and is beginner-friendly, React's ecosystem, scalability, and job market demand made it a better fit for this project.
+Flask: A lightweight Python framework was considered for smaller-scale use cases but lacked the built-in features (like authentication and admin) that Django offers for rapid e-commerce development.
+Node.js (with Express): Full-stack JavaScript was considered for consistency in frontend and backend development, but Django's built-in security, scalability, and robust admin tools made it more suitable for this project.
+
+NoSQL (e.g., MongoDB): NoSQL databases like MongoDB were evaluated for flexibility with unstructured data. However, the structured nature of e-commerce data (products, orders, users) made PostgreSQL a better option, ensuring relational data consistency and reliability.
 
 
 
