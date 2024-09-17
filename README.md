@@ -19,6 +19,7 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 - **Database**: PostgreSQL / Supabase
 - **Payments**: Stripe API
 - **Hosting**:  AWS
+- **Testing**:  PyTest
 
 ## Installation Instructions:
 
