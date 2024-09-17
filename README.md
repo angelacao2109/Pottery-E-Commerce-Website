@@ -29,9 +29,16 @@ git clone https://github.com/angelacao2109/Pottery-E-Commerce-Website.git
 ```
 Install dependencies for both the frontend and backend:
 ```bash
-npm install  # or yarn install
-cd backend
-npm install  # or yarn install
+npm install react react-dom
+npm install axios
+npm install @mui/material  # or react-bootstrap / tailwindcss
+
+pip install django
+pip install djangorestframework
+pip install stripe
+pip install djangorestframework-simplejwt
+
+
 ```
 Set up environment variables:
 Add environment variables for Stripe, Supabase, and the database connection in a .env file.
