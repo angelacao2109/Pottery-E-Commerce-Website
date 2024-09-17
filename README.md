@@ -62,19 +62,19 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 
 Other Hosting Options:
 
--- Heroku: A simpler alternative, but AWS offers more control and scalability.
+- Heroku: A simpler alternative, but AWS offers more control and scalability.
 
--- Vercel: Considered for frontend hosting, but AWS provides full-stack control.
+- Vercel: Considered for frontend hosting, but AWS provides full-stack control.
 
--- DigitalOcean: Simple to use and affordable but lacks some advanced features of AWS.
+- DigitalOcean: Simple to use and affordable but lacks some advanced features of AWS.
 
 Other Payment Options:
 
--- PayPal: Considered for its user-friendly payment process, but Stripe was chosen for its lower fees and developer-friendly API.
+- PayPal: Considered for its user-friendly payment process, but Stripe was chosen for its lower fees and developer-friendly API.
 
--- Square: Evaluated, but Stripe’s API flexibility made it more suitable.
+- Square: Evaluated, but Stripe’s API flexibility made it more suitable.
 
--- Shopify: Shopify was considered as a hosted e-commerce solution for ease of setup, but the fees were a lot higher than Stripe.
+- Shopify: Shopify was considered as a hosted e-commerce solution for ease of setup, but the fees were a lot higher than Stripe.
 
 
 
