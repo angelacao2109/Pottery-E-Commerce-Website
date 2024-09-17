@@ -36,19 +36,19 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 
 ### Why was this stack chosen?
 
-Frontend: React.js allows for fast rendering and interactive UIs, essential for a smooth user experience in e-commerce. TailwindCSS and Bootstrap provide responsive, customizable design components for scalability across devices.
+React.js allows for fast rendering and interactive UIs, essential for a smooth user experience in e-commerce. TailwindCSS and Bootstrap provide responsive, customizable design components for scalability across devices.
 
-Backend: Django offers a secure, scalable backend with built-in authentication, security, and an admin panel for managing products and orders. Axios simplifies frontend-backend communication.
+Django offers a secure, scalable backend with built-in authentication, security, and an admin panel for managing products and orders. Axios simplifies frontend-backend communication.
 
-Database: PostgreSQL is reliable for structured data, while Supabase provides real-time features and easy authentication, enhancing development efficiency.
+PostgreSQL is reliable for structured data, while Supabase provides real-time features and easy authentication, enhancing development efficiency.
 
-Payments: Stripe is chosen for its seamless integration and strong security.
+Stripe is chosen for its seamless integration and strong security.
 
-Shipping: Integrating services like Shippo and EasyPost automates label generation and tracking, improving fulfillment.
+Integrating services like Shippo and EasyPost automates label generation and tracking, improving fulfillment.
 
-Hosting: AWS offers scalable, reliable cloud hosting, ideal for handling traffic spikes.
+AWS offers scalable, reliable cloud hosting, ideal for handling traffic spikes.
 
-Testing: PyTest is used for backend testing, ensuring reliability in code and APIs.
+PyTest is used for backend testing, ensuring reliability in code and APIs.
 
 ### Other stacks that were considered:
 
