@@ -6,7 +6,8 @@
 3. [Tech Stack](#tech-stack)
    - [Why Was This Stack Chosen?](#why-was-this-stack-chosen)
    - [Other Stacks Considered](#other-stacks-that-were-considered)
-4. [Installation Instructions](#installation-instructions)
+4. [Lessons Learned](#lessons-learned)
+5. [Installation Instructions](#installation-instructions)
    - [Clone the Repository](#clone-the-repository)
    - [Install Dependencies](#install-dependencies)
    - [Set Up Environment Variables](#set-up-environment-variables)
@@ -34,12 +35,13 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 - **Hosting**:  AWS
 - **Testing**:  PyTest
 
-## Why was this stack chosen?
+### Why was this stack chosen?
 
-**Other stacks that were considered:**
+###Other stacks that were considered:
 
 
 
+## Lessons Learned:
 
 ## Installation Instructions:
 
