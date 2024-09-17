@@ -2,11 +2,10 @@ Project Name: Pottery-E-Commerce-Website
 
 This project includes third-party software under the following licenses:
 
-Django: Licensed under BSD License. Django License 
-Django REST Framework: Licensed under BSD License. DRF License
-React: Licensed under MIT License. React License
-Material UI: Licensed under MIT License. Material UI License
-TailwindCSS: Licensed under MIT License. Tailwind License
-Stripe SDK: Licensed under MIT License. Stripe License
+Django: Licensed under BSD License. https://github.com/django/django/blob/main/LICENSE
+Django REST Framework: Licensed under BSD License. https://github.com/encode/django-rest-framework/blob/master/LICENSE.md
+React: Licensed under MIT License. https://github.com/facebook/react/blob/main/LICENSE
+TailwindCSS: Licensed under MIT License. https://tailwindui.com/license
+Stripe SDK: Licensed under MIT License. https://docs.stripe.com/cli/license
 
 Copyright 2024 Angela Cao
