@@ -15,11 +15,13 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 
 ## Tech Stack:
 - **Frontend**: React.js / TailwindCSS / Bootstrap
-- **Backend**:  Python with Django
+- **Backend**:  Python with Django / Axios
 - **Database**: PostgreSQL / Supabase
 - **Payments**: Stripe API
+- **Shipping Integration**: Shippo, EasyPost, SendCloud, ShipStation, Postmen by AfterShip
 - **Hosting**:  AWS
 - **Testing**:  PyTest
+
 
 ## Installation Instructions:
 
