@@ -36,45 +36,45 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 
 ### Why was this stack chosen?
 
-- React.js: allows for fast rendering and interactive UIs, essential for a smooth user experience in e-commerce. TailwindCSS and Bootstrap provide responsive, customizable design components for scalability across devices.
+- **React.js:** allows for fast rendering and interactive UIs, essential for a smooth user experience in e-commerce. TailwindCSS and Bootstrap provide responsive, customizable design components for scalability across devices.
 
-- Django: offers a secure, scalable backend with built-in authentication, security, and an admin panel for managing products and orders. Axios simplifies frontend-backend communication.
+- **Django:** offers a secure, scalable backend with built-in authentication, security, and an admin panel for managing products and orders. Axios simplifies frontend-backend communication.
 
-- PostgreSQL: is reliable for structured data, while Supabase provides real-time features and easy authentication, enhancing development efficiency.
+- **PostgreSQL**: is reliable for structured data, while Supabase provides real-time features and easy authentication, enhancing development efficiency.
 
-- Stripe: is chosen for its seamless integration and strong security.
+- **Stripe:** is chosen for its seamless integration and strong security.
 
 - Integrating services like Shippo and EasyPost automates label generation and tracking, improving fulfillment.
 
-- AWS: offers scalable, reliable cloud hosting, ideal for handling traffic spikes.
+- **AWS:** offers scalable, reliable cloud hosting, ideal for handling traffic spikes.
 
-- PyTest: is used for backend testing, ensuring reliability in code and APIs.
+- **PyTest:** is used for backend testing, ensuring reliability in code and APIs.
 
 ### Other stacks that were considered:
 
-- Vue.js: Vue was considered for its simplicity and ease of use, especially for smaller applications. While Vue offers great reactivity and is beginner-friendly, React's ecosystem, scalability, and job market demand made it a better fit for this project.
+- **Vue.js:** Vue was considered for its simplicity and ease of use, especially for smaller applications. While Vue offers great reactivity and is beginner-friendly, React's ecosystem, scalability, and job market demand made it a better fit for this project.
 
-- Flask: A lightweight Python framework was considered for smaller-scale use cases but lacked the built-in features (like authentication and admin) that Django offers for rapid e-commerce development.
+- **Flask:** A lightweight Python framework was considered for smaller-scale use cases but lacked the built-in features (like authentication and admin) that Django offers for rapid e-commerce development.
 
-- Node.js (with Express): Full-stack JavaScript was considered for consistency in frontend and backend development, but Django's built-in security, scalability, and robust admin tools made it more suitable for this project.
+- **Node.js** (with Express): Full-stack JavaScript was considered for consistency in frontend and backend development, but Django's built-in security, scalability, and robust admin tools made it more suitable for this project.
 
-- NoSQL (e.g., MongoDB): NoSQL databases like MongoDB were evaluated for flexibility with unstructured data. However, the structured nature of e-commerce data (products, orders, users) made PostgreSQL a better option, ensuring relational data consistency and reliability.
+- **NoSQL** (e.g., MongoDB): NoSQL databases like MongoDB were evaluated for flexibility with unstructured data. However, the structured nature of e-commerce data (products, orders, users) made PostgreSQL a better option, ensuring relational data consistency and reliability.
 
 Other Hosting Options:
 
-- Heroku: A simpler alternative, but AWS offers more control and scalability.
+- **Heroku:** A simpler alternative, but AWS offers more control and scalability.
 
-- Vercel: Considered for frontend hosting, but AWS provides full-stack control.
+- **Vercel:** Considered for frontend hosting, but AWS provides full-stack control.
 
-- DigitalOcean: Simple to use and affordable but lacks some advanced features of AWS.
+- **DigitalOcean:** Simple to use and affordable but lacks some advanced features of AWS.
 
 Other Payment Options:
 
-- PayPal: Considered for its user-friendly payment process, but Stripe was chosen for its lower fees and developer-friendly API.
+- **PayPal:** Considered for its user-friendly payment process, but Stripe was chosen for its lower fees and developer-friendly API.
 
-- Square: Evaluated, but Stripe’s API flexibility made it more suitable.
+- **Square:** Evaluated, but Stripe’s API flexibility made it more suitable.
 
-- Shopify: Shopify was considered as a hosted e-commerce solution for ease of setup, but the fees were a lot higher than Stripe.
+- **Shopify:** Shopify was considered as a hosted e-commerce solution for ease of setup, but the fees were a lot higher than Stripe.
 
 
 
@@ -89,6 +89,7 @@ git clone https://github.com/angelacao2109/Pottery-E-Commerce-Website.git
 Install dependencies for both the frontend and backend:
 ```bash
 npm install react react-dom
+npm install react-router-dom
 npm install axios
 npm install @mui/material  # or react-bootstrap / tailwindcss
 
