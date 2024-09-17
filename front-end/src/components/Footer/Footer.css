@@ -1,0 +1,48 @@
+footer{
+    background-color:#5C95BC;
+    color:white;
+    padding: 10px;
+    border-radius: 15px;
+  
+}
+
+input[type="email"] {
+    border-radius: 10px; /* Adjust the value for more or less roundness */
+    padding: 10px; /* Optional: adds padding for better spacing */
+   
+    border: 1px solid #ccc; /* Optional: adds a border */
+  }
+
+  .input-container {
+    display: flex;
+    align-items: center;
+    border: solid 2px #ccc;
+    border-radius: 50px;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  input[type="email"] {
+    border: none;
+    outline: none;
+    flex: 1;
+    font-size: 16px;
+    padding: 5px 10px;
+    border-radius: 50px;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  button img {
+    width: 20px;
+    height: 20px;
+  }
+  
+  ul{
+    list-style-type: none;
+  }
