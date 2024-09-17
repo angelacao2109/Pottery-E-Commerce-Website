@@ -37,7 +37,7 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 
 ### Why was this stack chosen?
 
-###Other stacks that were considered:
+## Other stacks that were considered:
 
 
 
