@@ -37,9 +37,9 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 - **Hosting**:  AWS
 - **Testing**:  PyTest
 
-## Why was this stack chosen?
+### Why was this stack chosen?
 
-## Other stacks that were considered:
+### Other stacks that were considered:
 
 
 
