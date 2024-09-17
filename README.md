@@ -8,10 +8,7 @@
    - [Other Stacks Considered](#other-stacks-that-were-considered)
 4. [Lessons Learned](#lessons-learned)
 5. [Installation Instructions](#installation-instructions)
-   - [Clone the Repository](#clone-the-repository)
-   - [Install Dependencies](#install-dependencies)
-   - [Set Up Environment Variables](#set-up-environment-variables)
-   - [Run the Development Server](#run-the-development-server)
+
 
 ## Description:
 A full-stack e-commerce website for selling handcrafted pottery, built with a focus on a smooth user experience. The site allows users to browse products, purchase items, and track their order history. Features include a product catalog, a shopping cart, Stripe payment integration, and optional user accounts for order history tracking.
