@@ -2,8 +2,23 @@ import './Footer.css';
 
 function Footer() {
     return (
+        <>
+       
         <footer>
-<h3>Sign Up for Updates</h3>
+        <hr />
+        <div class="combo-div">
+<h3>Stay informed about our newest collections and updates!</h3>
+
+
+
+
+<ul class="footer-link">
+<li>EMAIL: INFO@POTTERYBYANGELA.COM </li>
+    <li>SHIPPING & RETURNS</li>
+    <li>FAQ</li>
+    <li>CONTACT</li>
+</ul>
+</div>
 
 <div class="input-container">
 <input type="email" id="email"  placeholder="EMAIL ADDRESS "pattern=".+@example\.com" size="30" required  />
@@ -12,14 +27,9 @@ function Footer() {
     </button>
 </div>
 
-<p> &copy; {new Date().getFullYear()} Angela Cao</p>
+<p class="copyright"> &copy; {new Date().getFullYear()} Angela Cao</p>
 
-<ul>
-    <li>SHIPPING & RETURNS</li>
-    <li>FAQ</li>
-    <li>CONTACT</li>
-    <li>EMAIL: INFO@POTTERYBYANGELA.COM </li>
-</ul>
 </footer>
+</>
     );
 }export default Footer

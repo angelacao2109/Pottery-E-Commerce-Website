@@ -34,7 +34,7 @@ header {
   padding: 10px 20px;
   font-size: 20px;
   border: solid;
-  border-radius: 20%;
+  border-radius: 50px;
   background: #F4A688;
   color:black;
 }
@@ -48,6 +48,7 @@ li img {
 .img-li {
   background-color: transparent !important;
   border: none !important;
+  cursor: pointer;
   
 }
 
