@@ -15,6 +15,7 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 
 ### Link: 
 
+### [Figma Design](https://tinyurl.com/2z4pnuyh)
 ## Key Features:
 - **Product Catalog**: Users can browse and filter a variety of handcrafted pottery items, with detailed product pages.
 - **Shopping Cart & Checkout**: Seamless shopping experience with an easy-to-use cart and secure checkout powered by Stripe.
