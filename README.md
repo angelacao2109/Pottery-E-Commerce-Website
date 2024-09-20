@@ -92,7 +92,12 @@ Install dependencies for both the frontend and backend:
 npm install react react-dom
 npm install react-router-dom
 npm install axios
-npm install @mui/material  # or react-bootstrap / tailwindcss
+npm install -D tailwindcss
+npx tailwindcss init
+npm install react-icons
+npm install tailwindcss postcss autoprefixer
+npm install @tailwindcss/forms
+
 
 pip install django
 pip install djangorestframework
