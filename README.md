@@ -27,7 +27,7 @@ A full-stack e-commerce website for selling handcrafted pottery, built with a fo
 - **Deployment**: Hosted on AWS with Supabase for managing real-time data and authentication.
 
 ## Tech Stack:
-- **Frontend**: React.js / TailwindCSS / react-icons
+- **Frontend**: React.js / TailwindCSS / react-icons / Bootstrap 
 - **Backend**:  Python with Django / Axios
 - **Database**: PostgreSQL / Supabase
 - **Payments**: Stripe API
