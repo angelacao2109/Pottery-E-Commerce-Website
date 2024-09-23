@@ -19,7 +19,7 @@ module.exports = {
         'button-pink': '#F4A688',
         'darker-button-pink': '#E58A76',
         'sage': '#9DAF96',
-        'orange': '#EE8465',
+        'orange': '#FF8B6B',
       },
     },
   },

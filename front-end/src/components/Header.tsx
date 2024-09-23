@@ -1,7 +1,7 @@
 import React from "react";
 import { FiShoppingCart } from "react-icons/fi";
 import { IoSearchSharp } from "react-icons/io5";
-const buttonStyles: string = "text-black hover:underline hover:bg-darker-button-pink  transition duration-300 text-2xl bg-button-pink rounded-lg px-2 border border-black";
+const buttonStyles: string = "text-black hover:underline hover:bg-darker-button-pink transition duration-300 text-2xl bg-button-pink rounded-lg px-2 border border-black p-1";
 
 const Header: React.FC = () => {
 return (
@@ -13,13 +13,13 @@ return (
   </div>
   <nav className=" flex justify-end pr-7">
   <ul className="flex space-x-8 text-lg  font-crimson">
-      <li><a href="/home" className={buttonStyles} >Home</a></li>
+      <li><a href="/#" className={buttonStyles} >Home</a></li>
       <li><a href="/about" className={buttonStyles}>About</a></li>
       <li><a href="/faq" className={buttonStyles}>FAQ</a></li>
       <li><a href="/contact" className={buttonStyles}>Contact</a></li>
       <li><a href="/account" className={buttonStyles}>Account</a></li>
-      <li className="img-li text-3xl" ><IoSearchSharp /> </li>
-      <li className="img-li text-3xl" ><FiShoppingCart /> </li>
+      <button className="img-li text-3xl cursor: pointer" ><IoSearchSharp /> </button>
+      <button className="img-li text-3xl cursor: pointer" ><FiShoppingCart /> </button>
     </ul>
   </nav>
  

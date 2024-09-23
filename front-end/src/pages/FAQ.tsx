@@ -11,7 +11,7 @@ const FAQ: React.FC = () => {
 return(
     <>
     <Header/>
-    <h1 className="font-crimson  flex justify-center font-bold text-6xl p-5 bg-sage border-black border-x-2 border-b-2">Frequently Asked Questions</h1>
+    <h1 className="font-crimson flex justify-center font-bold text-6xl p-5 bg-sage border-black border-x-2 border-b-2">Frequently Asked Questions</h1>
 
     <h2 className={titleHeader}> Care & Materials </h2>
 
