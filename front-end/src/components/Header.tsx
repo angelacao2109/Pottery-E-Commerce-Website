@@ -18,8 +18,9 @@ return (
       <li><a href="/faq" className={buttonStyles}>FAQ</a></li>
       <li><a href="/contact" className={buttonStyles}>Contact</a></li>
       <li><a href="/account" className={buttonStyles}>Account</a></li>
-      <button className="img-li text-3xl cursor: pointer" ><IoSearchSharp /> </button>
-      <button className="img-li text-3xl cursor: pointer" ><FiShoppingCart /> </button>
+      <li><button className="img-li text-3xl cursor-pointer" ><IoSearchSharp /> </button></li>
+<li><button className="img-li text-3xl cursor-pointer" ><FiShoppingCart /> </button></li>
+
     </ul>
   </nav>
  
