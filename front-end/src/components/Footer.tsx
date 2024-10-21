@@ -1,6 +1,7 @@
 import React from "react";
 import { HiOutlineArrowRightCircle } from "react-icons/hi2";
 import { MdOutlineEmail } from "react-icons/md";
+import { NavLink } from "react-router-dom";
 
 
 const Footer: React.FC  = () => {
@@ -18,10 +19,10 @@ const Footer: React.FC  = () => {
                     <span className="inline-block mr-2 -mb-1">
                             <MdOutlineEmail />
                         </span>
-                        Email: <a className="text-white" href="mailto:Info@PotteryByAngela.com">Info@PotteryByAngela.com</a></li>
-                    <li><a className="text-white" href="/shippingandreturns">Shipping & Returns</a></li>
-                    <li><a className="text-white" href="/faq">FAQ</a></li>
-                    <li><a className="text-white" href="/contact">Contact</a></li>
+                        Email: <NavLink className="text-white" to="mailto:Info@PotteryByAngela.com">Info@PotteryByAngela.com</NavLink></li>
+                    <li><NavLink className="text-white" to="/shippingandreturns">Shipping & Returns</NavLink></li>
+                    <li><NavLink className="text-white" to="/faq">FAQ</NavLink></li>
+                    <li><NavLink className="text-white" to="/contact">Contact</NavLink></li>
                 </ul>
             </div>
 

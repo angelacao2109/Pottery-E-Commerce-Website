@@ -18,7 +18,7 @@ const Account: React.FC = () => {
               type="email"
               placeholder="Email"
               autoComplete="email"
-              className="block w-full h-14 rounded-full border-0 py-4 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-1 focus:ring-black focus:outline-none text-lg"
+              className=" pl-6 block w-full h-14 rounded-full border-0 py-4 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-1 focus:ring-black focus:outline-none text-lg"
             />
           </div>
         </div>
@@ -31,7 +31,7 @@ const Account: React.FC = () => {
               type="password"
               placeholder="Password"
               autoComplete="none"
-              className="block w-full h-14 rounded-full border-0 py-4 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-1 focus:ring-black focus:outline-none text-lg"
+              className=" pl-6 block w-full h-14 rounded-full border-0 py-4 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-1 focus:ring-black focus:outline-none text-lg"
             />
           </div>
         </div>
@@ -40,7 +40,7 @@ const Account: React.FC = () => {
           <a href="/forgetpassword" className="underline">Forgot your Password?</a>
         </p>
 
-        <button className="bg-light-blue rounded-xl py-3 px-5 text-lg border-black border">
+        <button className="bg-light-blue  hover:bg-blue rounded-xl py-3 px-6 text-lg border-black border font-semibold">
           Sign In
         </button>
 

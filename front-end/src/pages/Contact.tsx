@@ -54,7 +54,7 @@ const Contact: React.FC = () => {
           </div>
 
           <div className="sm:col-span-2 flex justify-center mt-4">
-            <button className="bg-orange text-black rounded-xl py-3 px-6 font-semibold border-2 border-black  ">
+            <button className="bg-orange text-black rounded-xl py-3 px-6 font-semibold border hover:bg-darker-orange border-black text-lg ">
               Submit
             </button>
           </div>

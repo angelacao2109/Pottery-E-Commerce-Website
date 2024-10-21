@@ -15,12 +15,13 @@ module.exports = {
       colors: {
         'dusty-pink': '#DF8F8F',
         'light-purple': '#B1A0BA',
-        'blue': '#5C95BC',
+        'blue': '#379ade',
         'light-blue': '#70B4E3',
         'button-pink': '#F4A688',
         'darker-button-pink': '#E58A76',
         'sage': '#9DAF96',
         'orange': '#FF8B6B',
+        'darker-orange':'#e86c4a'
       },
     },
   },
